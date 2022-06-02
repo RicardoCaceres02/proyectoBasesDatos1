@@ -1,4 +1,4 @@
-# proyectoBasesDatos1
+# Proyecto de Bases de Datos I
             Developers
 Ariel Dario Meza Lobo 20201005566  
 Nelson Ricardo Cáceres Orellana 20201000738 
